@@ -1,4 +1,5 @@
 void setup(){
+  noStroke();
   size(400, 400);
   background(255);
   fill(0);
