@@ -1,43 +1,78 @@
-float x1, x2, x3, y1, y2, y3 = 0;
-float b = 50;
-size(600, 400);
+size(680, 460);
 noStroke();
-background(255);
 colorMode(HSB, 360, 100, 100);
-for(float a = 50;a<=450;a+=200){
-  x1 = a;
-  y1 = b;
-  fill(random(360), random(100), random(100)); 
-  rect(x1-40,y1-40,180,180);
-  fill(random(360), random(100), random(100)); 
-  rect(x1,y1,50,50);
-  x2 = x1+50;
-  y2 = y1+50;
-  x3 = x2+50;
-  y3 = y2+50;
-  fill(random(360), random(100), random(100)); 
-  triangle(x1,y2,x2,y2,x2,y3);
-  triangle(x3,y3,x2,y2,x2,y3);
-  fill(random(360), random(100), random(100)); 
-  triangle(x2,y1,x2,y2,x3,y2);
-  triangle(x2,y2,x3,y2,x3,y3);
-}
-b = 250;
-for(float a = 50;a<=450;a+=200){
-  x1 = a;
-  y1 = b;
-  fill(random(360), random(100), random(100)); 
-  rect(x1-40,y1-40,180,180);
-  fill(random(360), random(100), random(100)); 
-  rect(x1,y1,50,50);
-  x2 = x1+50;
-  y2 = y1+50;
-  x3 = x2+50;
-  y3 = y2+50;
-  fill(random(360), random(100), random(100)); 
-  triangle(x1,y2,x2,y2,x2,y3);
-  triangle(x3,y3,x2,y2,x2,y3);
-  fill(random(360), random(100), random(100)); 
-  triangle(x2,y1,x2,y2,x3,y2);
-  triangle(x2,y2,x3,y2,x3,y3);
-}
+background(0,0,97);
+
+
+//quadro 1
+fill(3,78,82);
+rect(20,20,200,200);
+fill(52, 94, 87);
+rect(40,40,80,80);
+fill(196, 94, 71);
+triangle(40,120,120,120,120,200);
+triangle(120,120,120,200,200,200);
+fill(120, 91, 45);
+triangle(120,120,200,120,120,40);
+triangle(120,120,200,200,200,120);
+
+//quadro 2
+fill(29,15,73);
+rect(240,20,200,200);
+fill(22,27,39);
+rect(260,40,80,80);
+fill(71,61,50);
+triangle(260,120,340,120,340,200);
+triangle(340,120,340,200,420,200);
+fill(46, 95, 86);
+triangle(340,120,420,120,340,40);
+triangle(340,120,420,200,420,120);
+
+//quadro 3
+fill(29, 87, 90);
+rect(460,20,200,200);
+fill(68, 4, 85);
+rect(480,40,80,80);
+fill(0,0,42);
+triangle(480,120,560,120,560,200);
+triangle(560,120,560,200,640,200);
+fill(240, 17, 5);
+triangle(560,120,640,120,560,40);
+triangle(560,120,640,200,640,120);
+
+//quadro 4
+fill(23, 3, 93);
+rect(20,240,200,200);
+fill(187, 82, 70);
+rect(40,260,80,80);
+fill(56, 93, 96);
+triangle(120,340,120,420,40,340);
+triangle(120,340,200,420,120,420);
+fill(109, 49, 49);
+triangle(120,260,120,340,200,340);
+triangle(120,340,200,340,200,420);
+
+
+//quadro 5
+fill(0, 0, 82);
+rect(240,240,200,200);
+fill(4, 39, 95);
+rect(260,260,80,80);
+fill(185, 92, 62);
+triangle(260,340,340,420,340,340);
+triangle(340,340,340,420,420,420);
+fill(40, 86, 94);
+triangle(340,260,420,340,340,340);
+triangle(340,340,420,340,420,420);
+
+//quadro 6
+fill(51, 95, 82);
+rect(460,240,200,200);
+fill(33, 39, 11);
+rect(480,260,80,80);
+fill(138, 7, 75);
+triangle(480,340,560,420,560,340);
+triangle(560,340,560,420,640,420);
+fill(30, 11, 87);
+triangle(560,260,640,340,560,340);
+triangle(560,340,640,340,640,420);
