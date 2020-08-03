@@ -4,7 +4,7 @@ Repositório dos exercícios utilizados nas cadeiras de Sistemas e Mídias Digit
 ## Programação I
 São apresentados fundamentos de programação conciliando as duas principais áreas do SMD: Sistemas e Design.
 
-### Linguagens
+### Tecnologias
 * Processing.
 
 ### Ferramentas
