@@ -16,3 +16,4 @@ São apresentados fundamentos de programação conciliando as duas principais á
 * [Aula 5 - Programação com HSV](https://github.com/Reinaldodasilva/SMD/tree/master/Programa%C3%A7%C3%A3o%20I/Aula%205%20-%20Programa%C3%A7%C3%A3o%20com%20HSV)
 * [Aula 6 - Tipos de dados e operadores](https://github.com/Reinaldodasilva/SMD/tree/master/Programa%C3%A7%C3%A3o%20I/Aula%206%20-%20Tipos%2C%20dados%20e%20operadores)
 * [Aula 7 - Álgebra Booleana](https://github.com/Reinaldodasilva/SMD/tree/master/Programa%C3%A7%C3%A3o%20I/Aula%207%20-%20Algebra%20Booleana)
+* [Aula 8 - Estruturas de Seleção](https://github.com/Reinaldodasilva/SMD/tree/master/Programa%C3%A7%C3%A3o%20I/Aula%208%20-%20Estruturas%20de%20Sele%C3%A7%C3%A3o)
