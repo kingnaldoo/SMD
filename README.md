@@ -1,8 +1,8 @@
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
-<p align="center">
-  <img src="https://github.com/Reinaldodasilva/SMD/blob/master/smd.png" width="200px"><br>
+<h3 align="center">
+  <img src="https://github.com/Reinaldodasilva/SMD/blob/master/smd.png" width="500px"><br>
   Repositório dos exercícios utilizados nas cadeiras de Sistemas e Mídias Digitais.
-</p>
+</h3>
 
 
 ## Programação I
