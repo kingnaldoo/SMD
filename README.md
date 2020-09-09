@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://github.com/Reinaldodasilva/SMD/blob/master/smd.png" width="300px"><br>
+  <img src="https://github.com/Reinaldodasilva/SMD/blob/master/smd.png" width="300px">
   Repositório dos exercícios utilizados nas cadeiras de Sistemas e Mídias Digitais.
 </h3>
 
