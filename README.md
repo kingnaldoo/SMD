@@ -1,6 +1,5 @@
-<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
 <h3 align="center">
-  <img src="https://github.com/Reinaldodasilva/SMD/blob/master/smd.png" width="500px"><br>
+  <img src="https://github.com/Reinaldodasilva/SMD/blob/master/smd.png" width="300px"><br>
   Repositório dos exercícios utilizados nas cadeiras de Sistemas e Mídias Digitais.
 </h3>
 
