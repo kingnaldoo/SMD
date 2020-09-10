@@ -15,22 +15,25 @@ São apresentados fundamentos de programação conciliando as duas principais á
 
 ### 🎯Aulas
 <ol>
-  <li><a href="https://github.com/Reinaldodasilva/SMD/tree/master/Programa%C3%A7%C3%A3o%20I/Aula%203%20-%20Introdu%C3%A7%C3%A3o%20ao%20processing">
+  <li><a href="Programação I/Aula 1 - Introdução ao processing/">
     Introdução ao Processing
   </a></li>
-  <li><a href="https://github.com/Reinaldodasilva/SMD/tree/master/Programa%C3%A7%C3%A3o%20I/Aula%204%20-%20Cores%20no%20processing">
+  <li><a href="Programação I/Aula 2 - Cores no processing/">
     Cores no Processing
   </a></li>
-  <li><a href="https://github.com/Reinaldodasilva/SMD/tree/master/Programa%C3%A7%C3%A3o%20I/Aula%205%20-%20Programa%C3%A7%C3%A3o%20com%20HSV">
+  <li><a href="Programação I/Aula 3 - Programação com HSV/">
     Programação com HSV
   </a></li>
-  <li><a href="https://github.com/Reinaldodasilva/SMD/tree/master/Programa%C3%A7%C3%A3o%20I/Aula%206%20-%20Tipos%2C%20dados%20e%20operadores">
+  <li><a href="Programação I/Aula 4 - Tipos, dados e operadores/">
     Tipos de dados e operadores
   </a></li>
-  <li><a href="https://github.com/Reinaldodasilva/SMD/tree/master/Programa%C3%A7%C3%A3o%20I/Aula%207%20-%20Algebra%20Booleana">
+  <li><a href="Programação I/Aula 5 - Algebra Booleana/">
     Álgebra Booleana
   </a></li>
-  <li><a href="https://github.com/Reinaldodasilva/SMD/tree/master/Programa%C3%A7%C3%A3o%20I/Aula%208%20-%20Estruturas%20de%20Sele%C3%A7%C3%A3o">
+  <li><a href="Programação I/Aula 6 - Estruturas de Seleção/">
     Estruturas de Seleção
+  </a></li>
+  <li><a href="Programação I/Aula 7 - Estruturas de Repetição/">
+    Estruturas de Repetição
   </a></li>
 </ol>
