@@ -1,0 +1,41 @@
+import processing.core.*; 
+import processing.data.*; 
+import processing.event.*; 
+import processing.opengl.*; 
+
+import java.util.HashMap; 
+import java.util.ArrayList; 
+import java.io.File; 
+import java.io.BufferedReader; 
+import java.io.PrintWriter; 
+import java.io.InputStream; 
+import java.io.OutputStream; 
+import java.io.IOException; 
+
+public class Exercicio_3 extends PApplet {
+
+int x, y;
+
+public void setup() {
+    
+    noStroke();
+    background(255);
+    fill(0);
+    do{
+        quad(x, y, x+40, y, x+80, y+40, x+40, y+40);
+        quad(x+40, y+40, x+80, y+40, x+40, y+80, x, y+80);
+        x = (x<=width) ? (x+80) : 0;
+        y = (x<=width) ? y : (y+80);
+    } while(y<height);
+}
+
+  public void settings() {  size(480, 480); }
+  static public void main(String[] passedArgs) {
+    String[] appletArgs = new String[] { "Exercicio_3" };
+    if (passedArgs != null) {
+      PApplet.main(concat(appletArgs, passedArgs));
+    } else {
+      PApplet.main(appletArgs);
+    }
+  }
+}
