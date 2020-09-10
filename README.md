@@ -15,7 +15,7 @@ São apresentados fundamentos de programação conciliando as duas principais á
 
 ### 🎯Aulas
 <ol>
-  <li><a href="https://github.com/Reinaldodasilva/SMD/tree/master/Programa%C3%A7%C3%A3o%20I/Aula%203%20-%20Introdu%C3%A7%C3%A3o%20ao%20processing">
+  <li><a href="Programação I/Aula 1 - Introdução ao processing/">
     Introdução ao Processing
   </a></li>
   <li><a href="https://github.com/Reinaldodasilva/SMD/tree/master/Programa%C3%A7%C3%A3o%20I/Aula%204%20-%20Cores%20no%20processing">
