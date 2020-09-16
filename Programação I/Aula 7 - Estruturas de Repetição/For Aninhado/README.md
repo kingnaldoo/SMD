@@ -1,4 +1,4 @@
-# Estruturas de Repetição
+# For Aninhado
 ## Exercício 1
 <img src="Exercicio_1/Exercicio_1.png">
 
