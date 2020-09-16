@@ -1,4 +1,4 @@
-# Estruturas de Seleção
+# If
 ## Exercício 1
 ### Vamos fazer uma aplicação que ao apertar uma tecla, desenha uma elipse em uma grade em uma posição aleatória. Apertando a tecla várias vezes, eu terei a grade toda preenchida. Agora eu quero que se a elipse desenhada estiver em uma diagonal, ela aparecerá com uma cor diferente:
 <img src="Exercicio_1/Exercicio_1.gif">
