@@ -13,7 +13,7 @@ São apresentados fundamentos de programação conciliando as duas principais á
 ### 🛠️Ferramentas
   * [Processing IDE](https://processing.org/download/) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Processing_3_logo.png/600px-Processing_3_logo.png" width="30px">
 
-### 🎯Aulas
+### 🎯Conteúdo
 <ol>
   <li><a href="Programação I/Aula 1 - Introdução ao processing/">
     Introdução ao Processing
