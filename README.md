@@ -1,19 +1,19 @@
 <h3 align="center">
   <img src="https://github.com/Reinaldodasilva/SMD/blob/master/smd.png" width="300px"><br>
-  Repositório dos exercícios utilizados nas cadeiras de Sistemas e Mídias Digitais.
+  Repository of exercises, tests and works used in the SMD course.
 </h3>
 
 
 ## Programação I
-São apresentados fundamentos de programação conciliando as duas principais áreas do SMD: Sistemas e Design.
+Fundamentals of programming are presented conciliating the two main areas of SMD: Systems and Design.
 
-### 💻Tecnologias
+### 💻Tecnologies
   * [Processing](https://processing.org/) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Processing_3_logo.png/600px-Processing_3_logo.png" width="30px"> 
 
-### 🛠️Ferramentas
+### 🛠️Tools
   * [Processing IDE](https://processing.org/download/) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Processing_3_logo.png/600px-Processing_3_logo.png" width="30px">
 
-### 🎯Conteúdo
+### 🎯Content
 <ol>
   <li><a href="Programação I/Aula 1 - Introdução ao processing/">
     Introdução ao Processing
