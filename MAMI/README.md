@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="./smd.png" width="300px"><br>
+  <img src="https://github.com/kingnaldoo/SMD/blob/master/smd.png" width="300px"><br>
 </h3>
 
 ## MAMI
