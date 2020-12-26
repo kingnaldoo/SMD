@@ -1,9 +1,10 @@
-<h3 align="center">
-  <img src="https://github.com/kingnaldoo/SMD/blob/master/smd.png" width="300px"><br>
-</h3>
+<h1 align="center">
+  <img src="https://github.com/kingnaldoo/SMD/blob/master/smd.png" width="300px"><br><br>
+  MAMI
+</h1>
 
-## MAMI
-Review of concepts seen in Programming I, introduction to data structure and Object Oriented Programming.
+<p align="center">Review of concepts seen in Programming I, introduction to data structure and Object Oriented Programming.<p>
+
 
 ### 💻Tecnologies
   * [Processing](https://processing.org/) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Processing_3_logo.png/600px-Processing_3_logo.png" width="20px">
