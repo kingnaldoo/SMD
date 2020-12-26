@@ -13,7 +13,7 @@ Review of concepts seen in Programming I, introduction to data structure and Obj
 
 ### 🎯Content
 <ol>
-  <li><a href="MAMI/Aula 2 - Funções/">
+  <li><a href="SMD/MAMI/Aula 2 - Funções/">
     Funções
   </a></li>
   <li><a href="MAMI/Aula 3 - Bandeiras/">
