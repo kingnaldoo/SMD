@@ -13,13 +13,13 @@ Review of concepts seen in Programming I, introduction to data structure and Obj
 
 ### 🎯Content
 <ol>
-  <li><a href="SMD/MAMI/Aula 2 - Funções/">
+  <li><a href="https://github.com/kingnaldoo/SMD/tree/master/MAMI/Aula%202%20-%20Fun%C3%A7%C3%B5es">
     Funções
   </a></li>
-  <li><a href="MAMI/Aula 3 - Bandeiras/">
+  <li><a href="https://github.com/kingnaldoo/SMD/tree/master/MAMI/Aula%203%20-%20Bandeiras">
     Bandeiras
   </a></li>
-  <li><a href="MAMI/Aula 4 - Marcas/">
+  <li><a href="https://github.com/kingnaldoo/SMD/tree/master/MAMI/Aula%204%20-%20Marcas">
     Marcas
   </a></li>
 </ol>
