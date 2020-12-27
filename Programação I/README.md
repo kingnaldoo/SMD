@@ -1,9 +1,9 @@
-<h3 align="center">
-  <img src="../smd.png" width="300px"><br>
-</h3>
+<h1 align="center">
+  <img src="../smd.png" width="300px"><br><br>
+  Programação I
+</h1>
 
-## Programação I
-Fundamentals of programming are presented conciliating the two main areas of SMD: Systems and Design.
+<p align="center">Fundamentals of programming are presented conciliating the two main areas of SMD: Systems and Design.</p>
 
 ### 💻Tecnologies
   * [Processing](https://processing.org/) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Processing_3_logo.png/600px-Processing_3_logo.png" width="20px"> 
