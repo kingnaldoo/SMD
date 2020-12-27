@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="./smd.png" width="300px"><br>
+  <img src="./smd.png'" width="300px"><br>
 </h3>
 
 ## MAMI
