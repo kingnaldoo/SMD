@@ -3,7 +3,7 @@
   MAMI
 </h1>
 
-<p align="center">Review of concepts seen in Programming I, introduction to data structure and Object Oriented Programming.<p>
+<p align="center">Review of concepts seen in Programming I, use of mathematical and computational models for problem solving..<p>
 
 ### 💻Tecnologies
   * [Processing](https://processing.org/) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Processing_3_logo.png/600px-Processing_3_logo.png" width="20px">
