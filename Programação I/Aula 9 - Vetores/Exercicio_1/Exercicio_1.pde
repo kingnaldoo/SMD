@@ -4,11 +4,11 @@ for(int i = 0; i<15; i++) {
   inteiros[i] = str((int) random(0, 100));
 }
 
-print("a) ");
+print("a) Vetor de inteiros: ");
 println(inteiros);
-print("\nb) ");
+print("\nb) Primeiro valor: ");
 println(inteiros[0]);
-print("\nc) ");
+print("\nc) Último Valor: ");
 println(inteiros[inteiros.length-1]);
-print("\nd) ");
+print("\nd) Valor do meio: ");
 println(inteiros[(inteiros.length-1)/2]);
