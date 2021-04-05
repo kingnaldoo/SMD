@@ -5,7 +5,7 @@
 
 ### Exercício 2
 #### Obtenha a média dos tons de cinza da imagem abaixo.
-<img src="Exercicio_2/Einstein.jpg">
+<img src="Exercicio_2/einstein.jpg">
 <img src="Exercicio_2/Exercicio_2.png">
 
 ### Exercício 3
