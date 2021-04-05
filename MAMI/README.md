@@ -3,7 +3,7 @@
   Matemática Aplicada à Multimídia (MAMI)
 </h1>
 
-<p align="center">Review of concepts seen in Programming I, use of mathematical and computational models to solving problems.</p>
+<p align="center">Introduction: systems, media and mathematics. Functions. Euclidean geometry: concepts and practical examples. Polar coordinates. Geometric places: definitions, equations and applications. Sets. Cardinality. Venn and Euler diagrams. Operations with sets. Relationships between sets. Combinatory. Random phenomena, frequency, and practical examples. Population, sample, and sampling. Mean, median and fashion: definition, meaning and applications. Amplitude, variance and deviations.</p>
 
 ### 💻Tecnologies
   * [Processing](https://processing.org/) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Processing_3_logo.png/600px-Processing_3_logo.png" width="20px"> 
